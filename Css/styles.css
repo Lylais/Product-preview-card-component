@@ -59,14 +59,20 @@
 
 }
 
+body{
+  display: flex;
+  height : 100vh;
+  justify-content: center;
+  align-items: center;
+  
+}
+
 .card{
   display: flex;
   background-color: var(--White);
-  margin-top : 158px;
-  margin-left : 99px;
   width : 600px;
   height : 449px;
-  border-radius:  ;
+
 
 
 }
